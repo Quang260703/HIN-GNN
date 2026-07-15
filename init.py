@@ -15,3 +15,45 @@ db.create_collection("cites", edge=True)         # paper -> paper
 db.create_collection("published_in", edge=True)  # paper -> venue
 db.create_collection("chairs", edge=True)        # pc_member -> venue
 db.create_collection("reviews", edge=True)
+
+db.create_collection("writes", edge=True)       # author -> paper
+db.create_collection("cites", edge=True)         # paper -> paper
+db.create_collection("published_in", edge=True)  # paper -> venue
+db.create_collection("chairs", edge=True)        # pc_member -> venue
+db.create_collection("reviews", edge=True)
+
+db.create_collection("writes", edge=True)       # author -> paper
+db.create_collection("cites", edge=True)         # paper -> paper
+db.create_collection("published_in", edge=True)  # paper -> venue
+db.create_collection("chairs", edge=True)        # pc_member -> venue
+db.create_collection("reviews", edge=True)
+
+db.create_collection("writes", edge=True)       # author -> paper
+db.create_collection("cites", edge=True)         # paper -> paper
+db.create_collection("published_in", edge=True)  # paper -> venue
+db.create_collection("chairs", edge=True)        # pc_member -> venue
+db.create_collection("reviews", edge=True)
+db.create_collection("writes", edge=True)       # author -> paper
+db.create_collection("cites", edge=True)         # paper -> paper
+db.create_collection("published_in", edge=True)  # paper -> venue
+db.create_collection("chairs", edge=True)        # pc_member -> venue
+db.create_collection("reviews", edge=True)
+
+db.create_collection("writes", edge=True)       # author -> paper
+db.create_collection("cites", edge=True)         # paper -> paper
+db.create_collection("published_in", edge=True)  # paper -> venue
+db.create_collection("chairs", edge=True)        # pc_member -> venue
+db.create_collection("reviews", edge=True)
+
+
+db.create_collection("writes", edge=True)       # author -> paper
+db.create_collection("cites", edge=True)         # paper -> paper
+db.create_collection("published_in", edge=True)  # paper -> venue
+db.create_collection("chairs", edge=True)        # pc_member -> venue
+db.create_collection("reviews", edge=True)
+
+db.create_collection("writes", edge=True)       # author -> paper
+db.create_collection("cites", edge=True)         # paper -> paper
+db.create_collection("published_in", edge=True)  # paper -> venue
+db.create_collection("chairs", edge=True)        # pc_member -> venue
+db.create_collection("reviews", edge=True)
