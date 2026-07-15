@@ -84,3 +84,36 @@ class ExpertRetrievalModel(nn.Module):
         ranked_idx = candidate_src_index[order]
         ranked_scores = scores[order]
         return list(zip(ranked_idx.tolist(), ranked_scores.tolist()))
+    
+
+    @torch.no_grad()
+    def rank_experts(self, x_dict, edge_index_dict, dst_index,
+                      candidate_src_index):
+        """Score all candidate authors against one target venue/paper node,
+        return sorted (index, score) pairs, descending."""
+        self.eval()
+        emb_dict = self.encode(x_dict, edge_index_dict)
+        emb_dst = emb_dict[self.dst_type][dst_index].unsqueeze(0)
+        emb_dst = emb_dst.expand(len(candidate_src_index), -1)
+        emb_src = emb_dict[self.src_type][candidate_src_index]
+        scores = self.scorer(emb_src, emb_dst)
+        order = torch.argsort(scores, descending=True)
+        ranked_idx = candidate_src_index[order]
+        ranked_scores = scores[order]
+        return list(zip(ranked_idx.tolist(), ranked_scores.tolist()))
+
+    torch.no_grad()
+    def rank_experts(self, x_dict, edge_index_dict, dst_index,
+                      candidate_src_index):
+        """Score all candidate authors against one target venue/paper node,
+        return sorted (index, score) pairs, descending."""
+        self.eval()
+        emb_dict = self.encode(x_dict, edge_index_dict)
+        emb_dst = emb_dict[self.dst_type][dst_index].unsqueeze(0)
+        emb_dst = emb_dst.expand(len(candidate_src_index), -1)
+        emb_src = emb_dict[self.src_type][candidate_src_index]
+        scores = self.scorer(emb_src, emb_dst)
+        order = torch.argsort(scores, descending=True)
+        ranked_idx = candidate_src_index[order]
+        ranked_scores = scores[order]
+        return list(zip(ranked_idx.tolist(), ranked_scores.tolist()))

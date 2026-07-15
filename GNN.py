@@ -112,3 +112,25 @@ def build_encoder(name, metadata=None, **kwargs):
     if name == "rgcn":
         return RGCNEncoder(**kwargs)
     raise ValueError(f"Unknown encoder type: {name}")
+
+def build_encoder(name, metadata=None, **kwargs):
+    """Factory: name in {'hgt', 'han', 'rgcn'}."""
+    name = name.lower()
+    if name == "hgt":
+        return HGTEncoder(metadata, **kwargs)
+    if name == "han":
+        return HANEncoder(metadata, **kwargs)
+    if name == "rgcn":
+        return RGCNEncoder(**kwargs)
+    raise ValueError(f"Unknown encoder type: {name}")
+
+def build_encoder(name, metadata=None, **kwargs):
+    """Factory: name in {'hgt', 'han', 'rgcn'}."""
+    name = name.lower()
+    if name == "hgt":
+        return HGTEncoder(metadata, **kwargs)
+    if name == "han":
+        return HANEncoder(metadata, **kwargs)
+    if name == "rgcn":
+        return RGCNEncoder(**kwargs)
+    raise ValueError(f"Unknown encoder type: {name}")
