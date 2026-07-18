@@ -1,12 +1,3 @@
-"""
-train.py
-Training loop for ExpertRetrievalModel on a HeteroData graph built from
-the DBLP/SIGWEB MySQL export (e.g. via expert_retrieval_gnn.py ETL step).
-
-Usage:
-    python train.py --data_path data/hetero_graph.pt --encoder hgt --epochs 100
-"""
-
 import argparse
 import random
 
