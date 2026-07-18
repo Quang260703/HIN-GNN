@@ -52,8 +52,8 @@ db.create_collection("published_in", edge=True)  # paper -> venue
 db.create_collection("chairs", edge=True)        # pc_member -> venue
 db.create_collection("reviews", edge=True)
 
-db.create_collection("writes", edge=True)       # author -> paper
-db.create_collection("cites", edge=True)         # paper -> paper
-db.create_collection("published_in", edge=True)  # paper -> venue
-db.create_collection("chairs", edge=True)        # pc_member -> venue
-db.create_collection("reviews", edge=True)
+db.create_collection("write", edge=True)       # author -> paper
+db.create_collection("cite", edge=True)         # paper -> paper
+db.create_collection("published_out", edge=True)  # paper -> venue
+db.create_collection("chair", edge=True)        # pc_member -> venue
+db.create_collection("review", edge=True)
