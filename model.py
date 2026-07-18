@@ -1,10 +1,3 @@
-"""
-model.py
-Wraps a GNN encoder (from gnn.py) with a task-specific head for
-expert retrieval: scoring (author, venue) or (author, paper) pairs,
-e.g. replicating Tran, Cabanac & Hubert (2017) PC-suggestion task.
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
