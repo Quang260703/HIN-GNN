@@ -1,0 +1,210 @@
+dblp_key,year,publisher,title,doi,conf_id
+conf/cikm/1992,1993,Springer,"Information and Knowledge Management, Expanding the Definition of "Database", First International Conference, CIKM'92, Baltimore, Maryland, USA, November 8-11, 1992, Selected Papers",NULL,NULL
+conf/cikm/1994w,1997,Springer,"Intelligent Hypertext: Advanced Techniques for the World Wide Web",NULL,NULL
+conf/cikm/1996dart,1997,ACM,"Proceedings of the Workshop on Databases - Active and Real-Time, DART 1996, Rockville, Maryland, USA",http://doi.acm.org/10.1145/352302,352302
+conf/cikm/2000,2000,ACM,"Proceedings of the 2000 ACM CIKM International Conference on Information and Knowledge Management, McLean, VA, USA, November 6-11, 2000",NULL,354756
+conf/cikm/2001,2001,ACM,"Proceedings of the 2001 ACM CIKM International Conference on Information and Knowledge Management, Atlanta, Georgia, USA, November 5-10, 2001",NULL,502585
+conf/cikm/2002,2002,ACM,"Proceedings of the 2002 ACM CIKM International Conference on Information and Knowledge Management, McLean, VA, USA, November 4-9, 2002",NULL,584792
+conf/cikm/2003,2003,ACM,"Proceedings of the 2003 ACM CIKM International Conference on Information and Knowledge Management, New Orleans, Louisiana, USA, November 2-8, 2003",NULL,956863
+conf/cikm/2004,2004,ACM,"Proceedings of the 2004 ACM CIKM International Conference on Information and Knowledge Management, Washington, DC, USA, November 8-13, 2004",NULL,1031171
+conf/cikm/2005,2005,ACM,"Proceedings of the 2005 ACM CIKM International Conference on Information and Knowledge Management, Bremen, Germany, October 31 - November 5, 2005",NULL,1099554
+conf/cikm/2005kras,2005,ACM,"Proceedings of the 2005 ACM Workshop on Research in Knowledge Representation for Autonomous Systems, KRAS 2005, Bremen, Germany, November 4, 2005, 2005",NULL,1096961
+conf/cikm/2006,2006,ACM,"Proceedings of the 2006 ACM CIKM International Conference on Information and Knowledge Management, Arlington, Virginia, USA, November 6-11, 2006",NULL,1183614
+conf/cikm/2007,2007,ACM,"Proceedings of the Sixteenth ACM Conference on Information and Knowledge Management, CIKM 2007, Lisbon, Portugal, November 6-10, 2007",NULL,1321440
+conf/cikm/2007cims,2007,ACM,"Proceedings of the First Workshop on CyberInfrastructure: Information Management in eScience, CIMS 2007, Sixteenth ACM Conference on Information and Knowledge Management, CIKM 2007, Lisbon, Portugal, November 9, 2007",NULL,1317353
+conf/cikm/2007pikm,2007,ACM,"Proceedings of the First Ph.D. Workshop in CIKM, PIKM 2007, Sixteenth ACM Conference on Information and Knowledge Management, CIKM 2007, Lisbon, Portugal, November 9, 2007",NULL,1316874
+conf/cikm/2008,2008,ACM,"Proceedings of the 17th ACM Conference on Information and Knowledge Management, CIKM 2008, Napa Valley, California, USA, October 26-30, 2008",NULL,1458082
+conf/cikm/2008books,2008,ACM,"Proceedings of the 2008 ACM Workshop on Research Advances in Large Digital Book Repositories, BooksOnline 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458412
+conf/cikm/2008dtmbio,2008,ACM,"Proceeding of the 2nd International Workshop on Data and Text Mining in Bioinformatics, DTMBIO 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458449
+conf/cikm/2008inews,2008,ACM,"Proceeding of the 2nd ACM workshop on Improving Non English Web Searching, iNEWS 2008, Napa Valley, California, USA, October 30, 2008",NULL,1460027
+conf/cikm/2008lsdsir,2008,ACM,"Proceeding of the 2008 ACM Workshop on Large-Scale Distributed Systems for Information Retrieval, LSDS-IR 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458469
+conf/cikm/2008onisw,2008,ACM,"Proceedings of the 2nd International Workshop on Ontologies and Information Systems for the Semantic Web, ONISW 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458484
+conf/cikm/2008pair,2008,ACM,"Proceedings of the 1st ACM workshop on Patent Information Retrieval, PaIR 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458572
+conf/cikm/2008pikm,2008,ACM,"Proceedings of the Second Ph.D. Workshop in CIKM, PIKM 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458550
+conf/cikm/2008ssm,2008,ACM,"Proceeding of the 2008 ACM Workshop on Search in Social Media, SSM 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458583
+conf/cikm/2008wicow,2008,ACM,"Proceedings of the 2nd ACM Workshop on Information Credibility on the Web, WICOW 2008, Napa Valley, California, USA, October 30, 2008",NULL,1458527
+conf/cikm/2009,2009,ACM,"Proceedings of the 18th ACM Conference on Information and Knowledge Management, CIKM 2009, Hong Kong, China, November 2-6, 2009",NULL,1645953
+conf/cikm/2009clouddb,2009,ACM,"Proceedings of the First International CIKM Workshop on Cloud Data Management, CloudDb 2009, Hong Kong, China, November 2, 2009",NULL,1651263
+conf/cikm/2009cnikm,2009,ACM,"Proceeding of the ACM First International Workshop on Complex Networks Meet Information & Knowledge Management, CIKM-CNIKM 2009, Hong Kong, China, November 6, 2009",NULL,1651274
+conf/cikm/2009dsmm,2009,ACM,"Proceeding of the ACM First International Workshop on Data-Intensive Software Management and Mining, CIKM-DSMM 2009, Hong Kong, China, November 6, 2009",NULL,1651309
+conf/cikm/2009dtmbio,2009,ACM,"Proceeding of the 3rd International Workshop on Data and Text Mining in Bioinformatics, DTMBIO 2009, Hong Kong, China, November 6, 2009",NULL,1651318
+conf/cikm/2009pavlad,2009,ACM,"Proceeding of the ACM First International Workshop on Privacy and Anonymity for Very Large Databases, CIKM-PAVLAD 2009, Hong Kong, China, November 6, 2009",NULL,1651449
+conf/cikm/2009swsm,2009,ACM,"Proceedings of the 2nd ACM Workshop on Social Web Search and Mining, CIKM-SWSM 2009, Hong Kong, China, November 2, 2009",NULL,1651437
+conf/cikm/2010,2010,ACM,"Proceedings of the 19th ACM Conference on Information and Knowledge Management, CIKM 2010, Toronto, Ontario, Canada, October 26-30, 2010",NULL,1871437
+conf/cikm/2010books,2010,ACM,"Proceedings of the 2010 ACM Workshop on Research Advances in Large Digital Book Repositories and Complementary Media, BooksOnline 2010, Toronto , ON, Canada - October 26, 2010",NULL,1871854
+conf/cikm/2010clouddb,2010,ACM,"Proceedings of the Second International CIKM Workshop on Cloud Data Management, CloudDb 2010, Toronto, Ontario, Canada, October 30, 2010",NULL,1871929
+conf/cikm/2010esair,2010,ACM,"Proceedings of the third workshop on Exploiting Semantic Annotations in Information Retrieval, ESAIR 2010, Toronto, Ontario, Canada, October 30, 2010",NULL,1871962
+conf/cikm/2010pikm,2010,ACM,"Proceedings of the Third Ph.D. Workshop on Information and Knowledge Management, PIKM 2010, Toronto, Ontario, Canada, October 30, 2010",NULL,1871902
+conf/cikm/2011,2011,ACM,"Proceedings of the 20th ACM Conference on Information and Knowledge Management, CIKM 2011, Glasgow, United Kingdom, October 24-28, 2011",NULL,2063576
+conf/cikm/2011books,2011,ACM,"Proceedings of the 4th ACM Workshop on Online books, complementary social media and crowdsourcing, BooksOnline 2011, Glasgow, United Kingdom, October 24, 2011",NULL,2064058
+conf/cikm/2011esair,2011,ACM,"Proceedings of the fourth workshop on Exploiting Semantic Annotations in Information Retrieval, ESAIR 2011, Glasgow, United Kingdom, October 28, 2011",http://dl.acm.org/citation.cfm?id=2064713,2064713
+conf/cikm/2011pikm,2011,ACM,"Proceedings of the 4th workshop on Workshop for Ph.D. students in information & knowledge management, IPKM 2011, Glasgow, United Kingdom, October 24-28, 2011",http://dl.acm.org/citation.cfm?id=2065003,2065003
+conf/cikm/2011smuc,2011,ACM,"Proceedings of the 3rd International CIKM Workshop on Search and Mining User-Generated Contents, SMUC 2011, Glasgow, United Kingdom, October 28, 2011",NULL,2065023
+conf/cikm/2012,2012,ACM,"21st ACM International Conference on Information and Knowledge Management, CIKM'12, Maui, HI, USA, October 29 - November 02, 2012",http://dl.acm.org/citation.cfm?id=2396761,2396761
+conf/cikm/2012clouddb,2012,ACM,"Proceedings of the Fourth International Workshop on Cloud Data Management, CloudDB 2012, Maui, HI, USA, October 29, 2012",http://dl.acm.org/citation.cfm?id=2390021,2390021
+conf/cikm/2012dubmmsm,2012,ACM,"Proceedings of the 2012 workshop on Data-driven User Behavioral Modelling and Mining from Social Media, DUBMMSM 2012, October 29, 2012, Maui, Hawaii, USA",http://dl.acm.org/citation.cfm?id=2390131,2390131
+conf/cikm/2012esair,2012,ACM,"Proceedings of the Fifth workshop on Exploiting Semantic Annotations in Information Retrieval, ESAIR 2012, Maui, HI, USA, October 28, 2012",http://dl.acm.org/citation.cfm?id=2390148,2390148
+conf/cikm/2012mixhs,2012,ACM,"Proceedings of the 2nd International Workshop on Managing Interoperability and compleXity in Health Systems, MIX-HS, Maui, HI, USA, October 29, 2012",http://dl.acm.org/citation.cfm?id=2389672,2389672
+conf/cikm/2012pikm,2012,ACM,"Proceedings of the 5th Ph.D. Workshop on Information and Knowledge Management, PIKM 2012, Maui, HI, USA, November 2, 2012",http://dl.acm.org/citation.cfm?id=2389686,2389686
+conf/cikm/2012shb,2012,ACM,"Proceedings of the 2012 International Workshop on Smart Health and Wellbeing, SHB 2012, October 29, 2012, Maui, HI, USA",http://dl.acm.org/citation.cfm?id=2389707,2389707
+conf/cikm/2012webkr,2012,ACM,"Proceedings of the 2012 international workshop on Web-scale knowledge representation, retrieval and reasoning, Web-KR@CIKM 2012, Maui, HI, USA, October 29, 2012",http://dl.acm.org/citation.cfm?id=2389656,2389656
+conf/cikm/2013,2013,ACM,"22nd ACM International Conference on Information and Knowledge Management, CIKM'13, San Francisco, CA, USA, October 27 - November 1, 2013",http://dl.acm.org/citation.cfm?id=2505515,2505515
+conf/cikm/2013clouddb,2013,ACM,"Proceedings of the fifth international workshop on Cloud data management, CloudDB 2013, San Francisco, California, USA, October 28, 2013",http://doi.acm.org/10.1145/2516588,2516588
+conf/cikm/2013dare,2013,ACM,"Proceedings of the 2013 International Workshop on Data Management & Analytics for Healthcare, DARE 2013, San Francisco, California, USA, November 1, 2013",http://doi.acm.org/10.1145/2512410,2512410
+conf/cikm/2013dtmbio,2013,ACM,"Proceeding of the 7rd International Workshop on Data and Text Mining in Bioinformatics, DTMBIO 2013, San Francisco, CA, USA, November 1, 2013",http://dl.acm.org/citation.cfm?id=2512089,2512089
+conf/cikm/2013dubmod,2013,ACM,"Proceedings of the 2013 Workshop on Data-Driven User Behavioral Modelling and Mining from Social Media, DUBMOD@CIKM 2013 San Francisco, CA, USA, October 28, 2013",http://dl.acm.org/citation.cfm?id=2513577,2513577
+conf/cikm/2013esair,2013,ACM,"ESAIR'13, Proceedings of the Sixth International Workshop on Exploiting Semantic Annotations in Information Retrieval, co-located with CIKM 2013, San Francisco, CA, USA, October 28, 2013",http://dl.acm.org/citation.cfm?id=2513204,2513204
+conf/cikm/2013pikm,2013,ACM,"Proceedings of the Sixth Workshop on Ph.D. Students in Information and Knowledge Management, PIKM@CIKM 2013, San Francisco, CA, USA, November 1, 2013",http://dl.acm.org/citation.cfm?id=2513166,2513166
+conf/cikm/2013webkr,2013,ACM,"Proceedings of the 4th international workshop on Web-scale knowledge representation retrieval and reasoning, Web-KR@CIKM 2013, San Francisco, CA, USA, November 1, 2013",http://dl.acm.org/citation.cfm?id=2512405,2512405
+conf/cikm/2014,2014,ACM,"Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management, CIKM 2014, Shanghai, China, November 3-7, 2014",http://dl.acm.org/citation.cfm?id=2661829,2661829
+conf/cikm/2014dtmbio,2014,ACM,"Proceedings of the ACM 8th International Workshop on Data and Text Mining in Bioinformatics, DTMBIO@CIKM 2014, Shanghai, China, November 7, 2014",http://dl.acm.org/citation.cfm?id=2665970,2665970
+conf/cikm/2014dubmod,2014,ACM,"Proceedings of the 3rd Workshop on Data-Driven User Behavioral Modeling and Mining from Social Media, DUBMOD@CIKM 2014, Shanghai, China, November 3, 2014",http://dl.acm.org/citation.cfm?id=2665994,2665994
+conf/cikm/2014esair,2014,ACM,"Proceedings of the 7th International Workshop on Exploiting Semantic Annotations in Information Retrieval, ESAIR '14, Shanghai, China, November 7, 2014",http://doi.acm.org/10.1145/2663712,2663712
+conf/cikm/2014pikm,2014,ACM,"Proceedings of the 7th Workshop on Ph.D Students, PIKM@CIKM 2014, Shanghai, China, November 3, 2014",http://dl.acm.org/citation.cfm?id=2663714,2663714
+conf/cikm/2014psbd,2014,ACM,"Proceedings of the First International Workshop on Privacy and Secuirty of Big Data, PSBD@CIKM 2014, Shanghai, China, November 7, 2014",http://dl.acm.org/citation.cfm?id=2663715,2663715
+conf/cikm/2014webkr,2014,ACM,"Proceedings of the 5th International Workshop on Web-scale Knowledge Representation Retrieval & Reasoning, Web-KR@CIKM 2014, Shanghai, China, November 3, 2014",http://dl.acm.org/citation.cfm?id=2663792,2663792
+conf/cikm/93,1993,ACM,"CIKM 93, Proceedings of the Second International Conference on Information and Knowledge Management, Washington, DC, USA, November 1-5, 1993",NULL,170088
+conf/cikm/94,1994,ACM,"Proceedings of the Third International Conference on Information and Knowledge Management (CIKM'94), Gaithersburg, Maryland, November 29 - December 2, 1994",NULL,191246
+conf/cikm/95,1995,ACM,"CIKM '95, Proceedings of the 1995 International Conference on Information and Knowledge Management, November 28 - December 2, 1995, Baltimore, Maryland, USA",NULL,221270
+conf/cikm/96,1996,ACM,"CIKM '96, Proceedings of the Fifth International Conference on Information and Knowledge Management, November 12 - 16, 1996, Rockville, Maryland, USA",NULL,238355
+conf/cikm/97,1997,ACM,"Proceedings of the Sixth International Conference on Information and Knowledge Management (CIKM'97), Las Vegas, Nevada, November 10-14, 1997",NULL,266714
+conf/cikm/98,1998,ACM,"Proceedings of the 1998 ACM CIKM International Conference on Information and Knowledge Management, Bethesda, Maryland, USA, November 3-7, 1998",NULL,288627
+conf/cikm/99,1999,ACM,"Proceedings of the 1999 ACM CIKM International Conference on Information and Knowledge Management, Kansas City, Missouri, USA, November 2-6, 1999",NULL,319950
+conf/doceng/2001,2001,ACM,"Proceedings of the 2001 ACM Symposium on Document Engineering, Atlanta, Georgia, USA, November 9-10, 2001",NULL,502187
+conf/doceng/2002,2002,ACM,"Proceedings of the 2002 ACM Symposium on Document Engineering, McLean, Virginia, USA, November 8-9, 2002",NULL,585058
+conf/doceng/2003,2003,ACM,"Proceedings of the 2003 ACM Symposium on Document Engineering, Grenoble, France, November 20-22, 2003",NULL,958220
+conf/doceng/2004,2004,ACM,"Proceedings of the 2004 ACM Symposium on Document Engineering, Milwaukee, Wisconsin, USA, October 28-30, 2004",NULL,1030397
+conf/doceng/2005,2005,ACM,"Proceedings of the 2005 ACM Symposium on Document Engineering, Bristol, UK, November 2-4, 2005",NULL,1096601
+conf/doceng/2006,2006,ACM,"Proceedings of the 2006 ACM Symposium on Document Engineering, Amsterdam, The Netherlands, October 10-13, 2006",NULL,1166160
+conf/doceng/2007,2007,ACM,"Proceedings of the 2007 ACM Symposium on Document Engineering, Winnipeg, Manitoba, Canada, August 28-31, 2007",NULL,1284420
+conf/doceng/2008,2008,ACM,"Proceedings of the 2008 ACM Symposium on Document Engineering, Sao Paulo, Brazil, September 16-19, 2008",NULL,1410140
+conf/doceng/2009,2009,ACM,"Proceedings of the 2009 ACM Symposium on Document Engineering, Munich, Germany, September 16-18, 2009",NULL,1600193
+conf/doceng/2010,2010,ACM,"Proceedings of the 2010 ACM Symposium on Document Engineering, Manchester, United Kingdom, September 21-24, 2010",NULL,1860559
+conf/doceng/2011,2011,ACM,"Proceedings of the 2011 ACM Symposium on Document Engineering, Mountain View, CA, USA, September 19-22, 2011",NULL,2034691
+conf/doceng/2012,2012,ACM,"ACM Symposium on Document Engineering, DocEng '12, Paris, France, September 4-7, 2012",http://dl.acm.org/citation.cfm?id=2361354,2361354
+conf/doceng/2013,2013,ACM,"ACM Symposium on Document Engineering 2013, DocEng '13, Florence, Italy, September 10-13, 2013",http://dl.acm.org/citation.cfm?id=2494266,2494266
+conf/doceng/2013dchanges,2013,CEUR-WS.org,"Proceedings of the International workshop on Document Changes: Modeling, Detection, Storage and Visualization, Florence, Italy, September 10, 2013",http://ceur-ws.org/Vol-1008,NULL
+conf/doceng/2014,2014,ACM,"ACM Symposium on Document Engineering 2014, DocEng '14, Fort Collins, CO, USA, September 16-19, 2014",http://dl.acm.org/citation.cfm?id=2644866,2644866
+conf/doceng/2015,2015,ACM,"Proceedings of the 2015 ACM Symposium on Document Engineering, DocEng 2015, Lausanne, Switzerland, September 8-11, 2015",http://doi.acm.org/10.1145/2682571,2682571
+conf/ht/2001,2001,ACM,"HYPERTEXT 2001, Proceedings of the 12th ACM Conference on Hypertext and Hypermedia, August 14-18, 2001, University of Aarhus, Århus, Denmark",NULL,504216
+conf/ht/2002,2002,ACM,"HYPERTEXT 2002, Proceedings of the 13th ACM Conference on Hypertext and Hypermedia, June 11-15, 2002, University of Maryland, College Park, MD, USA",NULL,513338
+conf/ht/2003,2003,ACM,"HYPERTEXT 2003, Proceedings of the 14th ACM Conference on Hypertext and Hypermedia, August 26-30, 2003, Nottingham, UK",NULL,900051
+conf/ht/2004,2004,ACM,"HYPERTEXT 2004, Proceedings of the 15th ACM Conference on Hypertext and Hypermedia, August 9-13, 2004, Santa Cruz, California, USA",NULL,1012807
+conf/ht/2005,2005,ACM,"HYPERTEXT 2005, Proceedings of the 16th ACM Conference on Hypertext and Hypermedia, September 6-9, 2005, Salzburg, Austria",NULL,1083356
+conf/ht/2006,2006,ACM,"HYPERTEXT 2006, Proceedings of the 17th ACM Conference on Hypertext and Hypermedia, August 22-25, 2006, Odense, Denmark",NULL,1149941
+conf/ht/2007,2007,ACM,"HYPERTEXT 2007, Proceedings of the 18th ACM Conference on Hypertext and Hypermedia, September 10-12, 2007, Manchester, UK",NULL,1286240
+conf/ht/2008,2008,ACM,"HYPERTEXT 2008, Proceedings of the 19th ACM Conference on Hypertext and Hypermedia, Pittsburgh, PA, USA, June 19-21, 2008",NULL,1379092
+conf/ht/2009,2009,ACM,"HYPERTEXT 2009, Proceedings of the 20th ACM Conference on Hypertext and Hypermedia, Torino, Italy, June 29 - July 1, 2009",NULL,1557914
+conf/ht/2010,2010,ACM,"HT'10, Proceedings of the 21st ACM Conference on Hypertext and Hypermedia, Toronto, Ontario, Canada, June 13-16, 2010",NULL,1810617
+conf/ht/2010msm,2010,ACM,"Proceedings of the International Workshop on Modeling Social Media, MSM 2010, Toronto, ON, Canada, June 13, 2010",http://dl.acm.org/citation.cfm?id=1835980,1835980
+conf/ht/2010msmmuse,2011,Springer,"Analysis of Social Media and Ubiquitous Data - International Workshops MSM 2010, Toronto, Canada, June 13, 2010, and MUSE 2010, Barcelona, Spain, September 20, 2010, Revised Selected Papers",http://dx.doi.org/10.1007/978-3-642-23599-3,NULL
+conf/ht/2011,2011,ACM,"HT'11, Proceedings of the 22nd ACM Conference on Hypertext and Hypermedia, Eindhoven, The Netherlands, June 6-9, 2011",NULL,1995966
+conf/ht/2012,2012,ACM,"23rd ACM Conference on Hypertext and Social Media, HT '12, Milwaukee, WI, USA, June 25-28, 2012",http://dl.acm.org/citation.cfm?id=2309996,2309996
+conf/ht/2012msm,2012,ACM,"Proceedings of the 3rd international workshop on Modeling social media, MSM 2012, Milwaukee, WI, USA, June 25, 2012",http://dl.acm.org/citation.cfm?id=2310057,2310057
+conf/ht/2013,2013,ACM,"24th ACM Conference on Hypertext and Social Media (part of ECRC), HT '13, Paris, France - May 02 - 04, 2013",http://dl.acm.org/citation.cfm?id=2481492,2481492
+conf/ht/2013msm,2013,ACM,"Proceedings of the 4th International Workshop on Modeling Social Media, MSM '13, Paris, France, May 1, 2013",http://dl.acm.org/citation.cfm?id=2463656,2463656
+conf/ht/2014,2014,ACM,"25th ACM Conference on Hypertext and Social Media, HT '14, Santiago, Chile, September 1-4, 2014",http://dl.acm.org/citation.cfm?id=2631775,2631775
+conf/ht/2014dc,2014,CEUR-WS.org,"Hypertext 2014 Extended Proceedings: Late-breaking Results, Doctoral Consortium and Workshop Proceedings of the 25th ACM Hypertext and Social Media Conference (Hypertext 2014), Santiago, Chile, September 1-4, 2014.",http://ceur-ws.org/Vol-1210,NULL
+conf/ht/2015,2015,ACM,"Proceedings of the 26th ACM Conference on Hypertext & Social Media, HT 2015, Guzelyurt, TRNC, Cyprus, September 1-4, 2015",http://dl.acm.org/citation.cfm?id=2700171,2700171
+conf/ht/87,1987,ACM,"Hypertext'87 Proceedings, November 13-15, 1987, Chapel Hill, North Carolina, USA",NULL,317426
+conf/ht/89,1989,ACM,"Hypertext'89 Proceedings, November 5-8, 1989, Pittsburgh, Pennsylvania, USA",NULL,74224
+conf/ht/91,1991,ACM,"Hypertext'91 Proceedings, San Antonio, Texas, USA",NULL,122974
+conf/ht/93,1993,ACM,"Hypertext'93 Proceedings, November 14-18, 1993, Seattle, Washington, USA",NULL,168750
+conf/ht/96,1996,ACM,"Hypertext '96, The Seventh ACM Conference on Hypertext, Washington DC, March 16-20, 1996",NULL,234828
+conf/ht/97,1997,ACM,"Hypertext 97, The Eigth ACM Conference on Hypertext, University of Southampton, UK, April 6-11, 1997",NULL,267437
+conf/ht/98,1998,ACM,"HYPERTEXT '98. Proceedings of the Ninth ACM Conference on Hypertext and Hypermedia: Links, Objects, Time and Space - Structure in Hypermedia Systems, June 20-24, 1998, Pittsburgh, PA, USA",NULL,276627
+conf/ht/99,1999,ACM,"HYPERTEXT '99, Proceedings of the 10th ACM Conference on Hypertext and Hypermedia: Returning to Our Diverse Roots, February 21-25, 1999, Darmstadt, Germany",NULL,294469
+conf/jcdl/2001,2001,ACM,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2001, Roanoke, Virginia, USA, June 24-28, 2001, Proceedings",http://dx.doi.org/10.1145/379437,379437
+conf/jcdl/2002,2002,ACM,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2002, Portland, Oregon, USA, June 14-18, 2002, Proceedings",http://dx.doi.org/10.1145/544220,544220
+conf/jcdl/2002vidl,2002,Springer,"Visual Interfaces to Digital Libraries [JCDL 2002 Workshop]",NULL,NULL
+conf/jcdl/2003,2003,"IEEE Computer Society","ACM/IEEE 2003 Joint Conference on Digital Libraries (JCDL 2003), 27-31 May 2003, Houston, Texas, USA, Proceedings",http://dl.acm.org/citation.cfm?id=827140,NULL
+conf/jcdl/2004,2004,ACM,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2004, Tucson, AZ, USA, June 7-11, 2004, Proceedings",http://dx.doi.org/10.1145/996350,996350
+conf/jcdl/2005,2005,ACM,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2005, Denver, CO, USA, June 7-11, 2005, Proceedings",http://dx.doi.org/10.1145/1065385,1065385
+conf/jcdl/2006,2006,ACM,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2006, Chapel Hill, NC, USA, June 11-15, 2006, Proceedings",http://dx.doi.org/10.1145/1141753,1141753
+conf/jcdl/2007,2007,ACM,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2007, Vancouver, BC, Canada, June 18-23, 2007, Proceedings",http://dx.doi.org/10.1145/1255175,1255175
+conf/jcdl/2007cama,2007,CEUR-WS.org,"Proceedings of the International ACM/IEEE Workshop on Contextualized Attention Metadata: Personalized Access to Digital Resources CAMA 2007, Vancouver, Canada, June 23, 2007",NULL,NULL
+conf/jcdl/2008,2008,ACM,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2008, Pittsburgh, PA, USA, June 16-20, 2008",http://dx.doi.org/10.1145/1378889,1378889
+conf/jcdl/2009,2008,ACM,"Proceedings of the 2009 Joint International Conference on Digital Libraries, JCDL 2009, Austin, TX, USA, June 15-19, 2009",http://dx.doi.org/10.1145/1555400,1555400
+conf/jcdl/2010,2010,ACM,"Proceedings of the 2010 Joint International Conference on Digital Libraries, JCDL 2010, Gold Coast, Queensland, Australia, June 21-25, 2010",http://dx.doi.org/10.1145/1816123,1816123
+conf/jcdl/2011,2011,ACM,"Proceedings of the 2011 Joint International Conference on Digital Libraries, JCDL 2011, Ottawa, ON, Canada, June 13-17, 2011",http://dx.doi.org/10.1145/1998076,1998076
+conf/jcdl/2012,2012,ACM,"Proceedings of the 12th ACM/IEEE-CS Joint Conference on Digital Libraries, JCDL '12, Washington, DC, USA, June 10-14, 2012",http://dx.doi.org/10.1145/2232817,2232817
+conf/jcdl/2013,2013,ACM,"13th ACM/IEEE-CS Joint Conference on Digital Libraries, JCDL '13, Indianapolis, IN, USA, July 22 - 26, 2013",http://dx.doi.org/10.1145/2467696,2467696
+conf/jcdl/2014,2014,IEEE,"IEEE/ACM Joint Conference on Digital Libraries, JCDL 2014, London, United Kingdom, September 8-12, 2014",http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6963755,NULL
+conf/jcdl/2015,2015,ACM,"Proceedings of the 15th ACM/IEEE-CE on Joint Conference on Digital Libraries, Knoxville, TN, USA, June 21-25, 2015",http://dl.acm.org/citation.cfm?id=2756406,2756406
+conf/sigir/2001,2001,ACM,"SIGIR 2001: Proceedings of the 24th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, September 9-13, 2001, New Orleans, Louisiana, USA",NULL,383952
+conf/sigir/2001w1,2002,Springer,"Information Retrieval Techniques for Speech Applications [this book is based on the workshop "Information Retrieval Techniques for Speech Applications", held as part of the 24th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in New Orleans, USA, in September 2001]",NULL,NULL
+conf/sigir/2002,2002,ACM,"SIGIR 2002: Proceedings of the 25th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, August 11-15, 2002, Tampere, Finland",NULL,564376
+conf/sigir/2003,2003,ACM,"SIGIR 2003: Proceedings of the 26th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, July 28 - August 1, 2003, Toronto, Canada",NULL,860435
+conf/sigir/2003dmir,2004,Springer,"Distributed Multimedia Information Retrieval, SIGIR 2003 Workshop on Distributed Information Retrieval, Toronto, Canada, August 1, 2003, Revised Selected and Invited Papers",NULL,NULL
+conf/sigir/2004,2004,ACM,"SIGIR 2004: Proceedings of the 27th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Sheffield, UK, July 25-29, 2004",NULL,1008992
+conf/sigir/2004p2p,2004,NULL,"Proceedings of the SIGIR Workshop on Peer-to-Peer Information Retrieval, 27th Annual International ACM SIGIR Conference, July 29, 2004, Sheffield, UK",NULL,NULL
+conf/sigir/2005,2005,ACM,"SIGIR 2005: Proceedings of the 28th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Salvador, Brazil, August 15-19, 2005",NULL,1076034
+conf/sigir/2006,2006,ACM,"SIGIR 2006: Proceedings of the 29th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Seattle, Washington, USA, August 6-11, 2006",NULL,1148170
+conf/sigir/2007,2007,ACM,"SIGIR 2007: Proceedings of the 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Amsterdam, The Netherlands, July 23-27, 2007",NULL,1277741
+conf/sigir/2007pan,2007,CEUR-WS.org,"Proceedings of the SIGIR 2007 International Workshop on Plagiarism Analysis, Authorship Identification, and Near-Duplicate Detection, PAN 2007, Amsterdam, Netherlands, July 27, 2007",NULL,NULL
+conf/sigir/2008,2008,ACM,"Proceedings of the 31st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2008, Singapore, July 20-24, 2008",NULL,1390334
+conf/sigir/2008and,2008,ACM,"Proceedings of the Second Workshop on Analytics for Noisy Unstructured Text Data, AND 2008, Singapore, July 24, 2008",NULL,1390749
+conf/sigir/2009,2009,ACM,"Proceedings of the 32nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2009, Boston, MA, USA, July 19-23, 2009",NULL,1571941
+conf/sigir/2010,2010,ACM,"Proceeding of the 33rd International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2010, Geneva, Switzerland, July 19-23, 2010",NULL,1835449
+conf/sigir/2011,2011,ACM,"Proceeding of the 34th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2011, Beijing, China, July 25-29, 2011",NULL,2009916
+conf/sigir/2012,2012,ACM,"The 35th International ACM SIGIR conference on research and development in Information Retrieval, SIGIR '12, Portland, OR, USA, August 12-16, 2012",http://dl.acm.org/citation.cfm?id=2348283,2348283
+conf/sigir/2013,2013,ACM,"The 36th International ACM SIGIR conference on research and development in Information Retrieval, SIGIR '13, Dublin, Ireland - July 28 - August 01, 2013",http://dl.acm.org/citation.cfm?id=2484028,2484028
+conf/sigir/2014,2014,ACM,"The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '14, Gold Coast , QLD, Australia - July 06 - 11, 2014",http://dl.acm.org/citation.cfm?id=2600428,2600428
+conf/sigir/2014erd,2014,ACM,"ERD'14, Proceedings of the First ACM International Workshop on Entity Recognition & Disambiguation, July 11, 2014, Gold Coast, Queensland, Australia",http://dl.acm.org/citation.cfm?id=2633211,2633211
+conf/sigir/2014medir,2014,CEUR-WS.org,"Proceedings of the Medical Information Retrieval Workshop at SIGIR co-located with the 37th annual international ACM SIGIR conference (ACM SIGIR 2014), Gold Coast, Australia, July 11, 2014.",http://ceur-ws.org/Vol-1276,NULL
+conf/sigir/2014pir,2014,CEUR-WS.org,"Proceeding of the 1st International Workshop on Privacy-Preserving IR: When Information Retrieval Meets Privacy and Security co-located with 37th Annual International ACM SIGIR conference, PIR@SIGIR 2014, Gold Coast, Australia, July 11, 2014.",http://ceur-ws.org/Vol-1225,NULL
+conf/sigir/2014smir,2014,CEUR-WS.org,"Proceedings of Workshop on Semantic Matching in Information Retrieval co-located with the 37th international ACM SIGIR conference on research and development in information retrieval, SMIR@SIGIR 2014, Queensland, Australia, July 11, 2014.",http://ceur-ws.org/Vol-1204,NULL
+conf/sigir/2014somera,2014,ACM,"SoMeRA'14, Proceedings of the First ACM International Workshop on Social Media Retrieval and Analysis, July 11, 2014, Gold Coast, Queensland, Australia",http://dl.acm.org/citation.cfm?id=2632188,2632188
+conf/sigir/2015,2015,ACM,"Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval, Santiago, Chile, August 9-13, 2015",http://dl.acm.org/citation.cfm?id=2766462,2766462
+conf/sigir/2015gsb,2015,CEUR-WS.org,"Proceedings of the First International Workshop on Graph Search and Beyond, GSB 2015, co-located with The 38th Annual SIGIR Conference (SIGIR'15), Santiago, Chile, August 13th, 2015.",http://ceur-ws.org/Vol-1393,NULL
+conf/sigir/2015sps,2015,CEUR-WS.org,"Proceedings of the International Workshop on Social Personalisation & Search, SPS 2015, co-located with the 38th Annual ACM SIGIR Conference (SIGIR 2015), Santiago de Chile, Chile, August 9-13, 2015.",http://ceur-ws.org/Vol-1421,NULL
+conf/sigir/71,1971,ACM,"ACM SIGIR Information Storage and Retrieval Symposium, 1971, Proceeding",NULL,511285
+conf/sigir/78,1978,ACM,"ACM-SIGIR, International Conference on Information Storage and Retrieval, Rochester, New York, May 10-12, 1978, Proceedings",NULL,800096
+conf/sigir/79,1979,ACM,"Information Implications into the Eighties, Proceedings of the Second International Conference on Information Storage and Retrieval, Dallas, Texas, September 27 and 28, 1979",NULL,511706
+conf/sigir/81,1981,ACM,"Theoretical Issues in Information Retrieval, Proceedings of the Fourth International Conference on Information Storage and Retrieval,  Oakland, California, USA, May 31 - June 2, 1981",NULL,511754
+conf/sigir/83,1983,ACM,"Research and Development in Information Retrieval, Sixth Annual International ACM SIGIR Conference, National Library of Medicine, Bethesda, Maryland, USA, June 6-8, 1983",NULL,511793
+conf/sigir/85,1985,ACM,"Proceedings of the 8th annual international ACM SIGIR conference on Research and development in information retrieval, Montréal, Québec, Canada, June 5-7, 1985",NULL,253495
+conf/sigir/86,1986,ACM,"SIGIR'86, Proceedings of the 9th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,  Pisa, Italy, September 8-10, 1986",NULL,253168
+conf/sigir/87,1987,ACM,"Proceedings of the Tenth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, New Orleans, Louisiana, USA, June 3-5, 1987",NULL,42005
+conf/sigir/88,1988,ACM,"SIGIR'88, Proceedings of the 11th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Grenoble, France, June 13-15, 1988",NULL,62437
+conf/sigir/89,1989,ACM,"SIGIR'89, 12th International Conference on Research and Development in Information Retrieval, Cambridge, Massachusetts, USA, June 25-28, 1989, Proceedings",NULL,75334
+conf/sigir/90,1990,ACM,"SIGIR'90, 13th International Conference on Research and Development in Information Retrieval, Brussels, Belgium, 5-7 September 1990, Proceedings",NULL,96749
+conf/sigir/91,1991,ACM,"Proceedings of the 14th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval. Chicago, Illinois, USA, October 13-16, 1991 (Special Issue of the SIGIR Forum).",NULL,122860
+conf/sigir/92,1992,ACM,"Proceedings of the 15th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval. Copenhagen, Denmark, June 21-24, 1992",NULL,133160
+conf/sigir/93,1993,ACM,"Proceedings of the 16th Annual International ACM-SIGIR Conference on Research and Development in Information Retrieval. Pittsburgh, PA, USA, June 27 - July 1, 1993",NULL,160688
+conf/sigir/94,1994,ACM/Springer,"Proceedings of the 17th Annual International ACM-SIGIR Conference on Research and Development in Information Retrieval. Dublin, Ireland, 3-6 July 1994 (Special Issue of the SIGIR Forum)",NULL,NULL
+conf/sigir/95,1995,"ACM Press","SIGIR'95, Proceedings of the 18th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.  Seattle, Washington, USA, July 9-13, 1995 (Special Issue of the SIGIR Forum)",NULL,215206
+conf/sigir/96,1996,ACM,"Proceedings of the 19th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR'96, August 18-22, 1996, Zurich, Switzerland (Special Issue of the SIGIR Forum)",NULL,243199
+conf/sigir/97,1997,ACM,"SIGIR '97: Proceedings of the 20th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, July 27-31, 1997, Philadelphia, PA, USA",NULL,258525
+conf/sigir/98,1998,ACM,"SIGIR '98: Proceedings of the 21st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, August 24-28 1998, Melbourne, Australia",NULL,290941
+conf/sigir/99,1999,ACM,"SIGIR '99: Proceedings of the 22nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, August 15-19, 1999, Berkeley, CA, USA",NULL,312624
+conf/um/2001,2001,Springer,"User Modeling 2001, 8th International Conference, UM 2001, Sonthofen, Germany, July 13-17, 2001, Proceedings",NULL,NULL
+conf/um/2003,2003,Springer,"User Modeling 2003, 9th International Conference, UM 2003, Johnstown, PA, USA, June 22-26, 2003, Proceedings",NULL,NULL
+conf/um/2005,2005,Springer,"User Modeling 2005, 10th International Conference, UM 2005, Edinburgh, Scotland, UK, July 24-29, 2005, Proceedings",NULL,NULL
+conf/um/2007,2007,Springer,"User Modeling 2007, 11th International Conference, UM 2007, Corfu, Greece, June 25-29, 2007, Proceedings",NULL,NULL
+conf/um/2009,2009,Springer,"User Modeling, Adaptation, and Personalization, 17th International Conference, UMAP 2009, formerly UM and AH, Trento, Italy, June 22-26, 2009. Proceedings",http://dx.doi.org/10.1007/978-3-642-02247-0,NULL
+conf/um/2009pmpc,2009,CEUR-WS.org,"Proceedings of the Workshop on Personalization in Mobile and Pervasive Computing, PMPC@UMAP 2009, Trento, Italy, June 22, 2009.",http://ceur-ws.org/Vol-478,NULL
+conf/um/2010,2010,Springer,"User Modeling, Adaptation, and Personalization, 18th International Conference, UMAP 2010, Big Island, HI, USA, June 20-24, 2010. Proceedings",http://dx.doi.org/10.1007/978-3-642-13470-8,NULL
+conf/um/2011,2011,Springer,"User Modeling, Adaption and Personalization - 19th International Conference, UMAP 2011, Girona, Spain, July 11-15, 2011. Proceedings",http://dx.doi.org/10.1007/978-3-642-22362-4,NULL
+conf/um/2011w,2012,Springer,"Advances in User Modeling - UMAP 2011 Workshops, Girona, Spain, July 11-15, 2011, Revised Selected Papers",http://dx.doi.org/10.1007/978-3-642-28509-7,NULL
+conf/um/2012,2012,Springer,"User Modeling, Adaptation, and Personalization - 20th International Conference, UMAP 2012, Montreal, Canada, July 16-20, 2012. Proceedings",http://dx.doi.org/10.1007/978-3-642-31454-4,NULL
+conf/um/2012w,2012,CEUR-WS.org,"Workshop and Poster Proceedings of the 20th Conference on User Modeling, Adaptation, and Personalization, Montreal, Canada, July 16-20, 2012",http://ceur-ws.org/Vol-872,NULL
+conf/um/2013,2013,Springer,"User Modeling, Adaptation, and Personalization - 21th International Conference, UMAP 2013, Rome, Italy, June 10-14, 2013, Proceedings",http://dx.doi.org/10.1007/978-3-642-38844-6,NULL
+conf/um/2013w,2013,CEUR-WS.org,"Late-Breaking Results, Project Papers and Workshop Proceedings of the 21st Conference on User Modeling, Adaptation, and Personalization., Rome, Italy, June 10-14, 2013",http://ceur-ws.org/Vol-997,NULL
+conf/um/2014,2014,Springer,"User Modeling, Adaptation, and Personalization - 22nd International Conference, UMAP 2014, Aalborg, Denmark, July 7-11, 2014. Proceedings",http://dx.doi.org/10.1007/978-3-319-08786-3,NULL
+conf/um/2014w,2014,CEUR-WS.org,"Posters, Demos, Late-breaking Results and Workshop Proceedings of the 22nd Conference on User Modeling, Adaptation, and Personalization co-located with the 22nd Conference on User Modeling, Adaptation, and Personalization (UMAP2014), Aalborg, Denmark, July 7-11, 2014.",http://ceur-ws.org/Vol-1181,NULL
+conf/um/2015,2015,Springer,"User Modeling, Adaptation and Personalization - 23rd International Conference, UMAP 2015, Dublin, Ireland, June 29 - July 3, 2015. Proceedings",http://dx.doi.org/10.1007/978-3-319-20267-9,NULL
+conf/um/2015w,2015,CEUR-WS.org,"Posters, Demos, Late-breaking Results and Workshop Proceedings of the 23rd Conference on User Modeling, Adaptation, and Personalization (UMAP 2015), Dublin, Ireland, June 29 - July 3, 2015.",http://ceur-ws.org/Vol-1388,NULL
+conf/websci/2011,2011,ACM,"Web Science 2011, WebSci '11, Koblenz, Germany - June 15 - 17, 2011",http://dl.acm.org/citation.cfm?id=2527031,2527031
+conf/websci/2012,2012,ACM,"Web Science 2012, WebSci '12, Evanston, IL, USA - June 22 - 24, 2012",http://dl.acm.org/citation.cfm?id=2380718,2380718
+conf/websci/2013,2013,ACM,"Web Science 2013 (co-located with ECRC), WebSci '13, Paris, France, May 2-4, 2013",http://dl.acm.org/citation.cfm?id=2464464,2464464
+conf/websci/2013vasco,2015,CEUR-WS.org,"Proceedings of the 1st International IFIP Working Conference on Value-Driven Social Semantics & Collective Intelligence co-located with the 5th Annual ACM Web Science Conference (WebSci 2013), Paris, France, May 1, 2013.",http://ceur-ws.org/Vol-1357,NULL
+conf/websci/2014,2014,ACM,"ACM Web Science Conference, WebSci '14, Bloomington, IN, USA, June 23-26, 2014",http://dl.acm.org/citation.cfm?id=2615569,2615569
+conf/wsdm/2008,2008,ACM,"Proceedings of the International Conference on Web Search and Web Data Mining, WSDM 2008, Palo Alto, California, USA, February 11-12, 2008",NULL,1341531
+conf/wsdm/2009,2009,ACM,"Proceedings of the Second International Conference on Web Search and Web Data Mining, WSDM 2009, Barcelona, Spain, February 9-11, 2009",NULL,1498759
+conf/wsdm/2010,2010,ACM,"Proceedings of the Third International Conference on Web Search and Web Data Mining, WSDM 2010, New York, NY, USA, February 4-6, 2010",NULL,1718487
+conf/wsdm/2011,2011,ACM,"Proceedings of the Forth International Conference on Web Search and Web Data Mining, WSDM 2011, Hong Kong, China, February 9-12, 2011",NULL,1935826
+conf/wsdm/2012,2012,ACM,"Proceedings of the Fifth International Conference on Web Search and Web Data Mining, WSDM 2012, Seattle, WA, USA, February 8-12, 2012",NULL,2124295
+conf/wsdm/2013,2013,ACM,"Sixth ACM International Conference on Web Search and Data Mining, WSDM 2013, Rome, Italy, February 4-8, 2013",http://dl.acm.org/citation.cfm?id=2433396,2433396
+conf/wsdm/2014,2014,ACM,"Seventh ACM International Conference on Web Search and Data Mining, WSDM 2014, New York, NY, USA, February 24-28, 2014",http://dl.acm.org/citation.cfm?id=2556195,2556195
+conf/wsdm/2015,2015,ACM,"Proceedings of the Eighth ACM International Conference on Web Search and Data Mining, WSDM 2015, Shanghai, China, February 2-6, 2015",http://dl.acm.org/citation.cfm?id=2684822,2684822
