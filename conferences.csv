@@ -1,5 +1,5 @@
 dblp_key,year,publisher,title,doi,conf_id
-conf/cikm/1992,1993,Springer,"Information and Knowledge Management, Expanding the Definition of "Database", First International Conference, CIKM'92, Baltimore, Maryland, USA, November 8-11, 1992, Selected Papers",NULL,NULL
+conf/cikm/1992,1993,Springer,"Information and Knowledge Management, Expanding the Definition of Database, First International Conference, CIKM'92, Baltimore, Maryland, USA, November 8-11, 1992, Selected Papers",NULL,NULL
 conf/cikm/1994w,1997,Springer,"Intelligent Hypertext: Advanced Techniques for the World Wide Web",NULL,NULL
 conf/cikm/1996dart,1997,ACM,"Proceedings of the Workshop on Databases - Active and Real-Time, DART 1996, Rockville, Maryland, USA",http://doi.acm.org/10.1145/352302,352302
 conf/cikm/2000,2000,ACM,"Proceedings of the 2000 ACM CIKM International Conference on Information and Knowledge Management, McLean, VA, USA, November 6-11, 2000",NULL,354756
