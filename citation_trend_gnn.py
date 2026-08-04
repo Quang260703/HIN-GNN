@@ -654,3 +654,48 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    def main():
+        torch.manual_seed(0)
+    cfg = HeteroCitationConfig()
+
+    papers, author_info, venue_publisher = load_dblp_from_csv(
+        papers_csv="papers.csv",
+        paper_references_csv="paper_references.csv",
+        paper_authors_csv="paper_authors.csv",
+        conferences_csv="conferences.csv",
+        cited_by_csv="cited_by.csv",           # optional -- pass None to skip
+        authors_info_csv="authors_info.csv",   # optional -- pass None to skip
+        prior_year_cutoff=2010,
+    )
+    print(f"Loaded {len(papers)} papers "
+            f"({sum(p.is_target for p in papers)} target / {sum(not p.is_target for p in papers)} prior)")
+
+    data, raw_features, id_maps, target_indices = build_hetero_causal_data(
+        papers, cfg, author_info=author_info, venue_publisher=venue_publisher
+    )
+    metadata = data.metadata()
+
+    rng = random.Random(1)
+    rng.shuffle(target_indices)
+    split = int(len(target_indices) * 0.8)
+    train_idx, val_idx = target_indices[:split], target_indices[split:]
+
+    num_authors = len(id_maps["aid_to_idx"])
+    num_venues = len(id_maps["vid_to_idx"])
+    num_publishers = id_maps["num_publishers"]
+
+    print("\n=== HGT model (heterogeneous, graph-aware) ===")
+    encoders = HeteroEncoders(cfg, num_authors, num_venues, num_publishers)
+    model = CitationTrendHGT(cfg, metadata)
+    model, history = train_hetero_model(model, encoders, data, raw_features, train_idx, val_idx)
+
+    plot_training_curves(history, out_path="training_curves.png")
+
+    print("\n=== Per-relation ablation (HGT) ===")
+    relation_ablation(cfg, metadata, data, raw_features, num_authors, num_venues, num_publishers,
+                        train_idx, val_idx)
+
+
+    if __name__ == "__main__":
+        main()
