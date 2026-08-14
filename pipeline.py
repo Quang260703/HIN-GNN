@@ -99,6 +99,6 @@ df = pd.DataFrame(rows)
 
 print(f"\nDownloaded {len(df):,} papers.")
 
-df.to_csv("nlp_papers.csv", index=False)
+df.to_csv("nlp_papers_2.csv", index=False)
 
 print("Saved to nlp_papers.csv")
