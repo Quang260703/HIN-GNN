@@ -11,7 +11,7 @@ PER_PAGE = 200
 
 # Set None to scrape all works matching the filter
 MAX_WORKS = None
-TOPIC_ID = "T10028" 
+TOPIC_ID = "T10362" 
 
 CSV_FILE = f"openalex_works_{TOPIC_ID}.csv"
 
